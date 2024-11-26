@@ -1,8 +1,9 @@
-# Python for initiate database
+# Python for Initiating Database
 
-Fast init database includes insert "Manufacturing Indonesia Dataset" with python.
+Fast initialization of the database, including inserting the "Manufacturing Indonesia Dataset" using Python.
 
 ## Steps
-**-Make database in SQL Server**
-**-Edit configuration of database connection based on your own database**
-**-Run di python filer**
+
+1. **Create the database in SQL Server.**
+2. **Edit the configuration of the database connection based on your own database settings.**
+3. **Run the Python script to populate the database.**
