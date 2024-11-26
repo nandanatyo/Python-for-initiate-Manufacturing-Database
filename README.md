@@ -9,4 +9,4 @@ Fast initialization of the database, including inserting the "Manufacturing Indo
 3. **Run the Python script to populate the database.**
 
 ## Problem Found
-If there is problem, dont hesitate to tell me
+If there is problem, please tell me, adios~
